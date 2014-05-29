@@ -31,4 +31,4 @@ public class MetaWeblogController : Controller
 
 You can read more here: [Implementing XML-RPC services in ASP.NET MVC](http://www.michael-mckenna.com/Blog/implementing-xml-rpc-services-in-asp-net-mvc/)
 
-Chq.XmlRpc.Mvc is Copyright © 2014 [Michael McKenna](http://www.michael-mckenna.com/) and other contributors under the [MIT license](http://opensource.org/licenses/mit-license.html).
+Chq.XmlRpc.Mvc is Copyright © 2014 [Michael McKenna](http://www.michael-mckenna.com/) and other contributors under the [MIT license](https://github.com/myquay/Chq.XmlRpc.Mvc/blob/master/LICENSE).
